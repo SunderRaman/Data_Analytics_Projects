@@ -13,7 +13,7 @@ This repository showcases selected projects across **Power BI, Machine Learning,
 ### 📌 About Me
 - 💼 Data Analytics & AI/ML Professional  
 - 📍 Based in India | Open to Remote Work  
-- 📧 sunderramanv@yahoo.co
+- 📧 sunderramanv@yahoo.com
 - 🌐 [Portfolio Website](https://sunderramanv.github.io)  
 
 ---
